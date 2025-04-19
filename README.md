@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hello, I'm TieuCao86
 
-<!--
-**TieuCao86/TieuCao86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about coding and constantly learning new things.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 My GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TieuCao86&show_icons=true&theme=tokyonight)
+
+---
+
+## 🧠 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TieuCao86&layout=compact&theme=tokyonight)
+
+---
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=TieuCao86&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 📈 Contribution Graph
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TieuCao86&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
