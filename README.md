@@ -15,8 +15,8 @@ I'm passionate about coding and constantly learning new technologies.
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats-mirror.vercel.app/api?username=TieuCao86&theme=dark&hide_border=false&count_private=true&include_all_commits=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=TieuCao86&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&zone=Asia/Ho_Chi_Minh)<br/>
+![](https://github-readme-stats-mirror.vercel.app/api?username=TieuCao86&theme=dark&hide_border=false&count_private=true&include_all_commits=true)<br/><hr/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=TieuCao86&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&zone=Asia/Ho_Chi_Minh)<br/><hr/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TieuCao86&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10)
 
 ---
