@@ -35,3 +35,26 @@ I'm passionate about building modern web and mobile applications while continuou
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+
+---
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats-one-bice.vercel.app/api?username=TieuCao86&theme=dark&hide_border=false&count_private=true&include_all_commits=true)<br/><hr/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=TieuCao86&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&zone=Asia/Ho_Chi_Minh)<br/><hr/>
+![](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=TieuCao86&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10)
+
+---
+
+## 🏆 GitHub Trophies:
+![](https://github-profile-trophy.vercel.app/?username=TieuCao86&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
+## 🔝 Top Contributed Repositories:
+![](https://github-contributor-stats.vercel.app/api?username=TieuCao86&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=TieuCao86&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> thêm react ,..
